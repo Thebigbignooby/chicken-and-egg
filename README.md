@@ -19,7 +19,7 @@ chicken-and-egg
 
 - [ ] different choices of cloud providers ?
 - [ ] different choices of code management tools ?
-- [ ] different choices of ci ?
+- [ ] different choices of ci ? (travis)
 - [ ] different choices of front end libraries ?
 
 ## WHY ?
